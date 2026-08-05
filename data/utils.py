@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import os
 
 # Fixer la graine pour avoir des résultats reproductibles hors ligne
 np.random.seed(42)
@@ -51,5 +52,6 @@ df = pd.DataFrame(
 
 # Sauvegarde locale du fichier CSV
 nom_fichier = "donnees_goma_2026.csv"
-df.to_csv(nom_fichier, index=False)
+root = os.path.join(data / nom_fichier)
+df.to_csv(root, index=False)
 print(f"✅ Fichier '{nom_fichier}' généré avec succès ({n_lignes} lignes) !")
