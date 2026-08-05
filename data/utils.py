@@ -36,7 +36,7 @@ score_logistique = -3 + (nombre_employes * 0.15) + (heures_connexion_nuit * 0.5)
 probabilite = 1 / (1 + np.exp(-score_logistique))  # Fonction sigmoïde
 adoption_ia = np.random.binomial(1, probabilite)
 
-# 4. Assemblage du DataFrame
+# 4. Assemblage du DataFram
 df = pd.DataFrame(
     {
         "ID_Entreprise": range(1, n_lignes + 1),
