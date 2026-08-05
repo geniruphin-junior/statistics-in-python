@@ -52,6 +52,7 @@ df = pd.DataFrame(
 
 # Sauvegarde locale du fichier CSV
 nom_fichier = "donnees_goma_2026.csv"
-root = os.path.join(data / nom_fichier)
+folder = "data"
+root = os.path.join(folder, nom_fichier)
 df.to_csv(root, index=False)
 print(f"✅ Fichier '{nom_fichier}' généré avec succès ({n_lignes} lignes) !")
