@@ -1,3 +1,9 @@
-# Statistiques pour la datascience et dataanalysis
-cecei est mon petit parcours de ma formation statistique pour la datascience
-ce repos renferme des notebboks et d'autres élements importants de ma formation sur youtube et avec deepseek
+# 📊 Statistics for Data Science & AI
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Made with ❤️ in DRC](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/geniruphin-junior)
+
+> **Mon parcours structuré en statistiques pour la Data Science et l'Intelligence Artificielle.**
+
+---
