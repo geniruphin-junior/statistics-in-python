@@ -35,7 +35,7 @@ La formation qui a guidé ce parcours est disponible ici :
 | `04_correlation.ipynb` | Corrélations | Pearson, Spearman, matrice de corrélation |
 | `05_regression_stats.ipynb` | Régression | Régression linéaire, diagnostics, interprétation |
 | `06_anova.ipynb` | ANOVA | Tests de variance, comparaisons multiples |
-| `**salary.ipynb**` | **⭐ PROJET FINAL** | **Application complète sur un dataset salarial** |
+| `**salary.ipynb**` | **⭐ PROJET FINAL** | **creation et analyse statistique complète sur un dataset salarial** |
 
 ### 2. Projet Pratique
 
