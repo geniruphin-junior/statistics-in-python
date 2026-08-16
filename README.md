@@ -12,7 +12,7 @@
 
 ## 🎯 Présentation du Projet
 
-Ce dépôt est le fruit de **mon apprentissage intensif** des statistiques pour la Data Science. Il contient l'ensemble des notebooks, exercices et ressources que j'ai développés en suivant une formation sur YouTube et avec l'accompagnement de DeepSeek.
+Ce dépôt est le fruit de **mon apprentissage intensif** des statistiques pour la Data Science et l'analyse. Il contient l'ensemble des notebooks, exercices et ressources que j'ai développés en suivant une formation sur YouTube et avec l'accompagnement de DeepSeek.
 
 ### 📺 Formation de Référence
 
